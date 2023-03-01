@@ -2,19 +2,19 @@
     import "../app.css";
 </script>
 
-<div class="navbar bg-base-100">
+<div class="navbar bg-base-100" id="firstnav">
   <div class="flex-1">
     <!-- svelte-ignore a11y-missing-attribute -->
     <a class="btn btn-ghost normal-case text-xl " href="/">Dream Dress</a>
   </div>
   <div class="flex-none gap-2">
-    <div class="form-control">
+    <!-- <div class="form-control">
       <input type="text" placeholder="Search" class="input input-bordered" />
-    </div>
+    </div> -->
     <div class="dropdown dropdown-end">
       <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
       <label tabindex="0" class="btn btn-ghost btn-circle avatar">
-        <div class="w-10 rounded-full">
+        <div class="w-8 rounded-full">
           <!-- svelte-ignore a11y-missing-attribute -->
           <img src="https://img.freepik.com/free-vector/bride-silhouette-with-white-dress_23-2147494158.jpg?w=740&t=st=1677539114~exp=1677539714~hmac=536491e5eb7f46ba060a3db9581a0b580a130cfdf5176cc0bad47386bdfd8d22" />
           <!-- https://img.freepik.com/premium-vector/white-bride-dress_23-2147493293.jpg?w=740 -->
@@ -35,7 +35,7 @@
   </div>
 </div>
 <hr>
-<div class="navbar bg-base-100 subnav">
+<div class="navbar bg-base-100 subnav " id="secnav">
     <ul class="mx-2 text-justify justify-between space-x-4" >
         <li class=""><a href="/saree">Saree</a></li>
         <li class=""><a href="/Gowns">Gowns</a></li>
@@ -169,5 +169,14 @@
         justify-content: space-between;
         align-items: center;
         padding: 0 1rem;
+    }
+
+    #firstnav{
+      height: 40px;
+      min-height: 40px;
+    }
+    #secnav{
+      height: 40px;
+      min-height: 40px;
     }
 </style>
