@@ -37,10 +37,10 @@
 <hr>
 <div class="navbar bg-base-100 subnav">
     <ul class="mx-2 text-justify justify-between space-x-4" >
-        <li class=""><a href="/">Saree</a></li>
-        <li class=""><a href="/">Gowns</a></li>
-        <li class=""><a href="/">Lahenga</a></li>
-        <li class=""><a href="/">Salwar</a></li>
+        <li class=""><a href="/saree">Saree</a></li>
+        <li class=""><a href="/Gowns">Gowns</a></li>
+        <li class=""><a href="/Lahenga">Lahenga</a></li>
+        <li class=""><a href="/Salwar">Salwar</a></li>
     </ul>
   </div>
 

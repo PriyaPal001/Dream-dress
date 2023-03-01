@@ -34,7 +34,7 @@
         <!-- product - start -->
         <div>
           <a href="/saree" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
-            <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+            <img src="https://i.ytimg.com/vi/Ed0w7l3yqLM/maxresdefault.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
               <span class="text-gray-500">Men</span>
@@ -47,7 +47,7 @@
         <!-- product - start -->
         <div>
           <a href="/Lahenga" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
-            <img src="https://images.unsplash.com/photo-1603344797033-f0f4f587ab60?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by engin akyurt" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+            <img src="https://i.etsystatic.com/29654904/r/il/38f282/3197828949/il_fullxfull.3197828949_l7pe.jpg" loading="lazy" alt="Photo by engin akyurt" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
               <span class="text-gray-500">Women</span>
@@ -60,11 +60,11 @@
         <!-- product - start -->
         <div>
           <a href="/Gowns" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
-            <img src="https://images.unsplash.com/photo-1552668693-d0738e00eca8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+            <img src="https://i0.wp.com/lovejunebridal.com/wp-content/uploads/2022/04/1-Copy.jpg?resize=600%2C479&ssl=1" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
               <span class="text-gray-500">Men</span>
-              <span class="text-gray-800 text-lg lg:text-xl font-bold">gowns</span>
+              <span class="text-gray-800 text-lg lg:text-xl font-bold">Gowns</span>
             </div>
           </a>
         </div>
@@ -73,7 +73,7 @@
         <!-- product - start -->
         <div>
           <a href="/Salwar" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
-            <img src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+            <img src="https://i.pinimg.com/originals/55/82/15/558215a6084dfa8f6bc461f6d178fa64.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
               <span class="text-gray-500">Women</span>

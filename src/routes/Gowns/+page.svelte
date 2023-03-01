@@ -11,18 +11,18 @@
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 md:gap-x-6 gap-y-8">
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Rachit Tank" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/1" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://i0.wp.com/lovejunebridal.com/wp-content/uploads/2022/04/1-48.jpg?resize=600%2C600&ssl=1" loading="lazy" alt="Photo by Rachit Tank" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
   
             <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Timely Watch</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Personalised Princess Ball Gown Pleat Lace Appliques Beads Pearls</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$15.00</span>
-              <span class="text-red-500 line-through mb-0.5">$30.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.8,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.58,787.05($590)</span>
             </div>
           </div>
         </div>
@@ -30,15 +30,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Galina N" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/2" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://cdn.shopify.com/s/files/1/2450/0989/products/34_b3510b5d-c663-4067-9667-f593567072ed_800x.jpg?v=1661696781" loading="lazy" alt="Photo by Galina N" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Fancy Plant</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">JDStore Fashion Women's High Neck Full Sleeves Sweep Train Luxury Wedding Dresses ...</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$9.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.10,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.81,544.71($987.99)</span>
             </div>
           </div>
         </div>
@@ -46,15 +47,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by eniko kis" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/3" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://chotronette.com/wp-content/uploads/2022/05/6dd9e0e7-31f3-4329-87d4-cfccb41a946c.jpg" loading="lazy" alt="Photo by eniko kis" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Elderly Cam</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Chotronette Porcelain Armour Made to Measure Alternative Event & Wedding Dress</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$45.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.21,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.1,73,325.53($2,100)</span>
             </div>
           </div>
         </div>
@@ -62,15 +64,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Irene Kredenets" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/4" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://images-cdn.ubuy.co.in/634d1bd8da714d3c92212fa4-generic-wedding-dresses-train-sweetheart.jpg" loading="lazy" alt="Photo by Irene Kredenets" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Shiny Shoe</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Wedding Dresses Train Sweetheart Elegant Puffy Princess Thin Simple Trailing Satin Dress Bride Gown</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$29.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">$8,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.55,690.00</span>
             </div>
           </div>
         </div>
@@ -78,15 +81,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1528476513691-07e6f563d97f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Charles Deluvio" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/5" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://cdn.shopify.com/s/files/1/0248/2651/1434/products/product-image-1906205895_720x.jpg?v=1656637020" loading="lazy" alt="Photo by Charles Deluvio" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Spiky Plant</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Long Sleeves Pearls Wedding Dresses</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$4.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.11,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.99,042.34($1,199.99)</span>
             </div>
           </div>
         </div>
@@ -94,15 +98,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1612033448550-9d6f9c17f07d?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Fernando Lavin" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/6" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://cdn.shopify.com/s/files/1/0124/4368/0858/products/Screenshot2022-11-07134910_702x.png?v=1669638805" loading="lazy" alt="Photo by Fernando Lavin" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Wieldy Film</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Off Shoulder Sheer Sequin Cathedral Train Wedding Dress</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$19.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs9,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.70,613.39($8,54.81)</span>
             </div>
           </div>
         </div>
@@ -110,17 +115,17 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1579609598065-79f8e5bcfb70?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Kiran CK" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/7" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="http://cdn.shopify.com/s/files/1/0565/1926/2384/products/image_c76b0adc-645b-4a5e-be43-e68892d095b9.jpg?v=1663272710" loading="lazy" alt="Photo by Kiran CK" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
             <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Sturdy Stand</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">D&D Clothing Puffy Wedding Ball Gown White Made to Measure / White</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$12.00</span>
-              <span class="text-red-500 line-through mb-0.5">$24.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs50,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.4,70,455.01($5,700)</span>
             </div>
           </div>
         </div>
@@ -128,15 +133,16 @@
   
         <!-- product - start -->
         <div>
-          <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
-            <img src="https://images.unsplash.com/photo-1619066045029-5c7e8537bd8c?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+          <a href="/Gowns/8" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
+            <img src="https://cdn.shopify.com/s/files/1/2450/0989/products/a4_9cac7661-c853-4cf6-a1cf-1d505b882df3_800x.jpg?v=1657075738" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Lazy Bottle</a>
+            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">WOMEN'S BOAT NECK FULL SLEEVES MERMAID BRIDAL WEDDING DRESS</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$9.00</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.15,000</span>
+              <span class="text-red-500 line-through mb-0.5">Rs.1,22,317.48($1,481.99)</span>
             </div>
           </div>
         </div>
