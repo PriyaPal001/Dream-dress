@@ -37,7 +37,7 @@
             <a href="/Salwar/2" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Royal Velvet Salwar Kameez Pakistani Design Dress</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$15,000</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.15,000</span>
               <span class="text-red-500 line-through mb-0.5">Rs.123,652</span>
             </div>
           </div>

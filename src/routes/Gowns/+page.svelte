@@ -72,7 +72,7 @@
             <a href="/Gowns/4" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Wedding Dresses Train Sweetheart Elegant Puffy Princess Thin Simple Trailing Satin Dress Bride Gown</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">$8,000</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.8,000</span>
               <span class="text-red-500 line-through mb-0.5">Rs.55,690.00</span>
             </div>
           </div>
@@ -106,7 +106,7 @@
             <a href="/Gowns/6" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Off Shoulder Sheer Sequin Cathedral Train Wedding Dress</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">Rs9,000</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.9,000</span>
               <span class="text-red-500 line-through mb-0.5">Rs.70,613.39($8,54.81)</span>
             </div>
           </div>
@@ -124,7 +124,7 @@
             <a href="/Gowns/7" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">D&D Clothing Puffy Wedding Ball Gown White Made to Measure / White</a>
   
             <div class="flex items-end gap-2">
-              <span class="text-gray-800 lg:text-lg font-bold">Rs50,000</span>
+              <span class="text-gray-800 lg:text-lg font-bold">Rs.50,000</span>
               <span class="text-red-500 line-through mb-0.5">Rs.4,70,455.01($5,700)</span>
             </div>
           </div>
