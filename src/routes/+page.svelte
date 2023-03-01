@@ -37,7 +37,6 @@
             <img src="https://i.ytimg.com/vi/Ed0w7l3yqLM/maxresdefault.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
-              <span class="text-gray-500">Men</span>
               <span class="text-gray-800 text-lg lg:text-xl font-bold">Saree</span>
             </div>
           </a>
@@ -50,7 +49,6 @@
             <img src="https://i.etsystatic.com/29654904/r/il/38f282/3197828949/il_fullxfull.3197828949_l7pe.jpg" loading="lazy" alt="Photo by engin akyurt" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
-              <span class="text-gray-500">Women</span>
               <span class="text-gray-800 text-lg lg:text-xl font-bold">Lahenga</span>
             </div>
           </a>
@@ -63,7 +61,6 @@
             <img src="https://i0.wp.com/lovejunebridal.com/wp-content/uploads/2022/04/1-Copy.jpg?resize=600%2C479&ssl=1" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
-              <span class="text-gray-500">Men</span>
               <span class="text-gray-800 text-lg lg:text-xl font-bold">Gowns</span>
             </div>
           </a>
@@ -76,7 +73,6 @@
             <img src="https://i.pinimg.com/originals/55/82/15/558215a6084dfa8f6bc461f6d178fa64.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
   
             <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
-              <span class="text-gray-500">Women</span>
               <span class="text-gray-800 text-lg lg:text-xl font-bold">Salwar</span>
             </div>
           </a>

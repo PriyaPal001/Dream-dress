@@ -18,7 +18,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Personalised Princess Ball Gown Pleat Lace Appliques Beads Pearls</a>
+            <a href="/Gowns/1" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Personalised Princess Ball Gown Pleat Lace Appliques Beads Pearls</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs.8,000</span>
@@ -35,7 +35,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">JDStore Fashion Women's High Neck Full Sleeves Sweep Train Luxury Wedding Dresses ...</a>
+            <a href="/Gowns/2" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">JDStore Fashion Women's High Neck Full Sleeves Sweep Train Luxury Wedding Dresses ...</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs.10,000</span>
@@ -52,7 +52,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Chotronette Porcelain Armour Made to Measure Alternative Event & Wedding Dress</a>
+            <a href="/Gowns/3" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Chotronette Porcelain Armour Made to Measure Alternative Event & Wedding Dress</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs.21,000</span>
@@ -69,7 +69,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Wedding Dresses Train Sweetheart Elegant Puffy Princess Thin Simple Trailing Satin Dress Bride Gown</a>
+            <a href="/Gowns/4" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Wedding Dresses Train Sweetheart Elegant Puffy Princess Thin Simple Trailing Satin Dress Bride Gown</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">$8,000</span>
@@ -86,7 +86,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Long Sleeves Pearls Wedding Dresses</a>
+            <a href="/Gowns/5" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Long Sleeves Pearls Wedding Dresses</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs.11,000</span>
@@ -103,7 +103,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Off Shoulder Sheer Sequin Cathedral Train Wedding Dress</a>
+            <a href="/Gowns/6" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">Off Shoulder Sheer Sequin Cathedral Train Wedding Dress</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs9,000</span>
@@ -121,7 +121,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">D&D Clothing Puffy Wedding Ball Gown White Made to Measure / White</a>
+            <a href="/Gowns/7" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">D&D Clothing Puffy Wedding Ball Gown White Made to Measure / White</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs50,000</span>
@@ -138,7 +138,7 @@
           </a>
   
           <div>
-            <a href="#" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">WOMEN'S BOAT NECK FULL SLEEVES MERMAID BRIDAL WEDDING DRESS</a>
+            <a href="/Gowns/8" class="text-gray-500 hover:gray-800 lg:text-lg transition duration-100 mb-1">WOMEN'S BOAT NECK FULL SLEEVES MERMAID BRIDAL WEDDING DRESS</a>
   
             <div class="flex items-end gap-2">
               <span class="text-gray-800 lg:text-lg font-bold">Rs.15,000</span>
