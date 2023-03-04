@@ -13,7 +13,7 @@
           <a href="/Lahenga/1" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="https://media.samyakk.com/catalog/product/h/c/hc1002.jpg" loading="lazy" alt="Photo by Rachit Tank" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
   
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>
@@ -116,7 +116,7 @@
         <div>
           <a href="/Lahenga/7" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="http://cdn.shopify.com/s/files/1/0424/1876/5977/products/2135--10375_1200x1200.png?v=1662359703" loading="lazy" alt="Photo by Kiran CK" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>

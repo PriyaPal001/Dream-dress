@@ -13,7 +13,7 @@
           <a href="/Gowns/1" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="https://i0.wp.com/lovejunebridal.com/wp-content/uploads/2022/04/1-48.jpg?resize=600%2C600&ssl=1" loading="lazy" alt="Photo by Rachit Tank" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
   
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>
@@ -116,7 +116,7 @@
         <div>
           <a href="/Gowns/7" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="http://cdn.shopify.com/s/files/1/0565/1926/2384/products/image_c76b0adc-645b-4a5e-be43-e68892d095b9.jpg?v=1663272710" loading="lazy" alt="Photo by Kiran CK" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>

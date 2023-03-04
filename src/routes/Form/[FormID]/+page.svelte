@@ -223,7 +223,7 @@
   };
 </script>
 
-<section class="flex flex-col md:flex-row bg-base-200 pt-6">
+<section class="flex flex-col md:flex-row bg-gray-900 pt-6">
   <div class="box md:w-1/2 mx-3 md:mx-10">
     <div class="py-5 sm:py-0">
       <div class="flex flex-wrap gap-4 lg:gap-6 sm:py-2.5">

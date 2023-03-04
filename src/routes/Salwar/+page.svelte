@@ -13,7 +13,7 @@
           <a href="/Salwar/1" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="http://cdn.shopify.com/s/files/1/1732/6543/products/PakistaniVelvetSalwarKameezDesignforParty_1200x630.jpg?v=1640794604" loading="lazy" alt="Photo by Rachit Tank" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
   
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>
@@ -116,7 +116,7 @@
         <div>
           <a href="#" class="group h-80 block bg-gray-100 rounded-lg overflow-hidden relative mb-2 lg:mb-3">
             <img src="https://cdn.shopify.com/s/files/1/1732/6543/products/LuxuryPakistaniWeddingWearSalwarKameez_2_720x.jpg?v=1608053133" loading="lazy" alt="Photo by Kiran CK" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
-            <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+            <!-- <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span> -->
           </a>
   
           <div>
