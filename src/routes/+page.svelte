@@ -21,6 +21,9 @@
 
 <svelte:head>
   <title>Dream Dress</title>
+  <meta name="description" content="Rent a dress for all occasions" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
 </svelte:head>
 
 <section
