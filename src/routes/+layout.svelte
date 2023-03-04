@@ -5,10 +5,10 @@
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
-<div class="navbar bg-base-100" id="firstnav">
+<div class="navbar bg-base-100  bg-gray-900" id="firstnav">
   <div class="flex-1">
     <!-- svelte-ignore a11y-missing-attribute -->
-    <a class="btn btn-ghost normal-case text-xl text-slate-100 " href="/">
+    <a class="btn btn-ghost normal-case text-xl text-blue-300 " href="/">
       <!-- <img src={Dress} width="40" alt="Logo" class="rounded-full mx-2" /> -->
       <span class="logo">D</span> ream <span class="logo">D</span> ress</a
     >
@@ -52,7 +52,7 @@
   class="navbar text-center flex justify-center bg-gray-900 md:justify-start   md:bg-gray-800"
   id="secnav"
 >
-  <ul class="mx-2 flex justify-center align-middle text-center  space-x-4">
+  <ul class="mx-2 flex justify-center align-middle text-center text-sky-400 space-x-4">
     <li class="hover:text-cyan-400 transition duration-150">
       <a href="/saree">Saree</a>
     </li>
