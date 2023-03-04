@@ -4,7 +4,7 @@
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
-<div class="navbar bg-gray-900" id="firstnav">
+<div class="navbar bg-base-100" id="firstnav">
   <div class="flex-1">
     <!-- svelte-ignore a11y-missing-attribute -->
     <a class="btn btn-ghost normal-case text-xl text-sky-400 " href="/">

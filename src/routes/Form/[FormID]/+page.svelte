@@ -194,7 +194,24 @@
     startdate: "",
     noofdays: "",
   };
-  let handleform = () => {
+  let handleform = async () => {
+    const { data, error } = await supabase
+      .from("orders")
+      .insert([
+        {
+          firstname: user.firstname,
+          lastname: user.lastname,
+          email: user.email,
+          phone: user.phone,
+          address: user.address,
+          product: dressProduct,
+          price: dressPrice,
+          startdate: user.startdate,
+          noofdays: user.noofdays,
+
+        },
+      ]);
+
     console.log("Handling Form");
   };
   let value = 0;
@@ -202,11 +219,11 @@
     value = 1;
     setTimeout(() => {
       value = 0;
-    }, 2000);
+    }, 5000);
   };
 </script>
 
-<section class="flex flex-col md:flex-row bg-gray-900 pt-6">
+<section class="flex flex-col md:flex-row bg-base-200 pt-6">
   <div class="box md:w-1/2 mx-3 md:mx-10">
     <div class="py-5 sm:py-0">
       <div class="flex flex-wrap gap-4 lg:gap-6 sm:py-2.5">
