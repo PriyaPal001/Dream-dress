@@ -134,7 +134,7 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
-  .logo {
+  :global(.logo) {
     font-family: 'Great Vibes', cursive;
     font-size: 2rem;
   }
