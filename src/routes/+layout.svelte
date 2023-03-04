@@ -1,15 +1,16 @@
 <script>
   import "../app.css";
   import Dress from "$lib/dress.png";
+  
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
 <div class="navbar bg-base-100" id="firstnav">
   <div class="flex-1">
     <!-- svelte-ignore a11y-missing-attribute -->
-    <a class="btn btn-ghost normal-case text-xl text-sky-400 " href="/">
-      <img src={Dress} width="40" alt="Logo" class="rounded-full mx-2" />
-      Dream Dress</a
+    <a class="btn btn-ghost normal-case text-xl text-slate-100 " href="/">
+      <!-- <img src={Dress} width="40" alt="Logo" class="rounded-full mx-2" /> -->
+      <span class="logo">D</span> ream <span class="logo">D</span> ress</a
     >
   </div>
   <div class="flex-none gap-2">
@@ -29,20 +30,20 @@
         </div>
       </label>
       <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
-      <ul
+      <!-- <ul
         tabindex="0"
         class="mt-3 p-2 shadow menu menu-compact dropdown-content bg-base-100 rounded-box w-52"
       >
-        <li>
+        <li> -->
           <!-- svelte-ignore a11y-missing-attribute -->
-          <a class="justify-between">
+          <!-- <a class="justify-between">
             Profile
             <span class="badge">New</span>
           </a>
         </li>
         <li><a href="/">Settings</a></li>
         <li><a href="/">Logout</a></li>
-      </ul>
+      </ul> -->
     </div>
   </div>
 </div>
@@ -76,18 +77,7 @@
     <a
       class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"
     >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        fill="none"
-        stroke="currentColor"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="2"
-        class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-        viewBox="0 0 24 24"
-      >
-        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
-      </svg>
+      <img src="https://img.freepik.com/free-vector/bride-silhouette-with-white-dress_23-2147494158.jpg?w=740&t=st=1677539114~exp=1677539714~hmac=536491e5eb7f46ba060a3db9581a0b580a130cfdf5176cc0bad47386bdfd8d22" width="40" alt="Logo" class="rounded-full mx-2" />
       <span class="ml-3 text-xl">Dream Dress</span>
     </a>
     <p
@@ -142,6 +132,12 @@
 </footer>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+  .logo {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2rem;
+  }
   .subnav {
     display: flex;
     height: 20px !important;
