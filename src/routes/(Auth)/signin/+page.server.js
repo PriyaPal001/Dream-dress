@@ -11,8 +11,8 @@ export const actions = {
 		});
 		console.log(user);
 
-		if (user) {
-			throw redirect(302, '/');
-		}
+	
+		throw redirect(302, '/');
+		
 	}
 };
