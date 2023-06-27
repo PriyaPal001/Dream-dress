@@ -17,6 +17,8 @@
       i = 0;
     }
   }, 4000);
+
+  export let data 
 </script>
 
 <svelte:head>
@@ -25,6 +27,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
 </svelte:head>
+
+<!-- <h1>{data.email}</h1> -->
+{#if data.email}
+  <h1>{data.email}</h1>
+{/if}
+
 
 <section
   class="relative bg-cover bg-center bg-no-repeat"

@@ -1,14 +1,13 @@
 <script>
   import "../app.css";
   import Dress from "$lib/dress.png";
-  
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
-<div class="navbar bg-base-100  bg-gray-900" id="firstnav">
+<div class="navbar bg-base-100 bg-gray-900" id="firstnav">
   <div class="flex-1">
     <!-- svelte-ignore a11y-missing-attribute -->
-    <a class="btn btn-ghost normal-case text-xl text-blue-300 " href="/">
+    <a class="btn btn-ghost normal-case text-xl text-blue-300" href="/">
       <!-- <img src={Dress} width="40" alt="Logo" class="rounded-full mx-2" /> -->
       <span class="logo">D</span> ream <span class="logo">D</span> ress</a
     >
@@ -30,29 +29,29 @@
         </div>
       </label>
       <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
-      <!-- <ul
+      <ul
         tabindex="0"
         class="mt-3 p-2 shadow menu menu-compact dropdown-content bg-base-100 rounded-box w-52"
       >
-        <li> -->
-          <!-- svelte-ignore a11y-missing-attribute -->
-          <!-- <a class="justify-between">
-            Profile
-            <span class="badge">New</span>
-          </a>
+        <li>
+          <a class="justify-between" href="/signin"> SignIn </a>
         </li>
-        <li><a href="/">Settings</a></li>
-        <li><a href="/">Logout</a></li>
-      </ul> -->
+        <li><a href="/signup">SignUp</a></li>
+        <li><form method="POST">
+          <button formaction="/" type="submit">Sign Out</button>
+        </form></li>
+      </ul>
     </div>
   </div>
 </div>
 <hr />
 <div
-  class="navbar text-center flex justify-center bg-gray-900 md:justify-start   md:bg-gray-800"
+  class="navbar text-center flex justify-center bg-gray-900 md:justify-start md:bg-gray-800"
   id="secnav"
 >
-  <ul class="mx-2 flex justify-center align-middle text-center text-sky-400 space-x-4">
+  <ul
+    class="mx-2 flex justify-center align-middle text-center text-sky-400 space-x-4"
+  >
     <li class="hover:text-cyan-400 transition duration-150">
       <a href="/saree">Saree</a>
     </li>
@@ -69,6 +68,7 @@
 </div>
 
 <slot />
+
 <footer class="text-gray-600 body-font">
   <div
     class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col"
@@ -77,7 +77,12 @@
     <a
       class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"
     >
-      <img src="https://img.freepik.com/free-vector/bride-silhouette-with-white-dress_23-2147494158.jpg?w=740&t=st=1677539114~exp=1677539714~hmac=536491e5eb7f46ba060a3db9581a0b580a130cfdf5176cc0bad47386bdfd8d22" width="40" alt="Logo" class="rounded-full mx-2" />
+      <img
+        src="https://img.freepik.com/free-vector/bride-silhouette-with-white-dress_23-2147494158.jpg?w=740&t=st=1677539114~exp=1677539714~hmac=536491e5eb7f46ba060a3db9581a0b580a130cfdf5176cc0bad47386bdfd8d22"
+        width="40"
+        alt="Logo"
+        class="rounded-full mx-2"
+      />
       <span class="ml-3 text-xl">Dream Dress</span>
     </a>
     <p
@@ -94,8 +99,10 @@
     <span
       class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start"
     >
- 
-      <a class="ml-3 text-gray-500" href="https://www.instagram.com/priyapal__.02/">
+      <a
+        class="ml-3 text-gray-500"
+        href="https://www.instagram.com/priyapal__.02/"
+      >
         <svg
           fill="none"
           stroke="currentColor"
@@ -110,7 +117,10 @@
         </svg>
       </a>
       <!-- svelte-ignore a11y-missing-attribute -->
-      <a class="ml-3 text-gray-500" href="https://www.linkedin.com/in/priya-bidyut-pal/">
+      <a
+        class="ml-3 text-gray-500"
+        href="https://www.linkedin.com/in/priya-bidyut-pal/"
+      >
         <svg
           fill="currentColor"
           stroke="currentColor"
@@ -132,10 +142,10 @@
 </footer>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+  @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 
   :global(.logo) {
-    font-family: 'Great Vibes', cursive;
+    font-family: "Great Vibes", cursive;
     font-size: 2rem;
   }
   .subnav {
