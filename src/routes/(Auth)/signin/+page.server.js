@@ -13,18 +13,6 @@ export const actions = {
 
 		if (user) {
 			throw redirect(302, '/');
-		}else{
-			const { email, password } = Object.fromEntries(await request.formData());
-		console.log(email, password);
-		const { user, error } = await supabase.auth.signIn({
-			email: String(email),
-			password: String(password)
-		});
-		console.log(user);
-
-		if (user) {
-			throw redirect(302, '/');
-		}
 		}
 	}
 };
