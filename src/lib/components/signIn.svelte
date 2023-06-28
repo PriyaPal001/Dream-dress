@@ -8,6 +8,7 @@
 <script>
   import supabase from "$lib/db";
   import {userauth} from "../../store.js";
+  import { goto } from '$app/navigation';
 
   let email = "";
   let password = "";

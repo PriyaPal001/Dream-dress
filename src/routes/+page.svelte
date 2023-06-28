@@ -1,5 +1,6 @@
 <script>
   import { slide, fade } from "svelte/transition";
+  import { userauth } from "../store.js";
   let images = [
     "https://img.freepik.com/free-photo/young-beautiful-stylish-woman-wedding-dress_285396-7822.jpg?w=826&t=st=1677540031~exp=1677540631~hmac=6a2361f0648494b80a130461b397d2df05561817ff6d745a6c0b65904be69149",
     "https://img.freepik.com/free-photo/beautiful-model-girl-white-dress-man-suit_1328-1779.jpg?w=826&t=st=1677540225~exp=1677540825~hmac=918ca7b63749fd56b72a275a568892aaa0da7a611e612f2edd9a34793c5e51b4",
@@ -29,8 +30,8 @@
 </svelte:head>
 
 <!-- <h1>{data.email}</h1> -->
-{#if data.email}
-  <h1>{data.email}</h1>
+{#if $userauth.email}
+  <h1>{$userauth.email}</h1>
 {/if}
 
 
