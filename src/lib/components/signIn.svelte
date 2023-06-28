@@ -21,7 +21,7 @@
 
     if (user) {
       supabase.auth.session()?.user && userauth.set(supabase.auth.session()?.user);
-      goto("/");
+      goto('/');
     } else if (error) {
       console.log(error);
     }
