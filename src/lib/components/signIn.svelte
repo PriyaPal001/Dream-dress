@@ -5,6 +5,28 @@
     - @tailwindcss/forms
 -->
 
+<script>
+  import supabase from "$lib/db";
+  import {userauth} from "../../store.js";
+
+  let email = "";
+  let password = "";
+
+  let usersignin = async () => {
+    let {user} = supabase.auth.signIn({
+      email: String(email),
+      password: String(password),
+    });
+
+    if (user) {
+      supabase.auth.session()?.user && userauth.set(supabase.auth.session()?.user);
+      goto("/");
+    } else if (error) {
+      console.log(error);
+    }
+  };
+</script>
+
 <section class="bg-white">
   <div class="lg:grid lg:min-h-screen lg:grid-cols-12">
     <section
@@ -78,7 +100,10 @@
           </p>
         </div>
 
-        <form method="POST" class="mt-8 grid grid-cols-6 gap-6">
+        <form
+          on:submit|preventDefault={usersignin}
+          class="mt-8 grid grid-cols-6 gap-6"
+        >
           <div class="col-span-6">
             <label for="Email" class="block text-sm font-medium text-gray-700">
               Email
@@ -88,6 +113,7 @@
               type="email"
               id="Email"
               name="email"
+              bind:value={email}
               class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
             />
           </div>
@@ -104,6 +130,7 @@
               type="password"
               id="Password"
               name="password"
+              bind:value={password}
               class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
             />
           </div>

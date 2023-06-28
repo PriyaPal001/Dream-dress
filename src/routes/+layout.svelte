@@ -1,6 +1,23 @@
 <script>
   import "../app.css";
-  import Dress from "$lib/dress.png";
+  
+  import { userauth } from './../store.js';
+	import supabase from '$lib/db';
+	import { onMount } from 'svelte';
+	onMount(async () => {
+		supabase.auth.session()?.user && userauth.set(supabase.auth.session()?.user);
+		supabase.auth.onAuthStateChange((event, session) => {
+			console.log('event', event);
+			console.log('session', session);
+			if (event === 'SIGNED_IN') {
+				userauth.set(session?.user);
+			}
+			if (event === 'SIGNED_OUT') {
+				userauth.set(false);
+			}
+		});
+	});
+
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
