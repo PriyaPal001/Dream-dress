@@ -18,6 +18,12 @@
 		});
 	});
 
+  let usersignout = async () => {
+    const { error } = await supabase.auth.signOut();
+		if (error) console.log('Error logging out:', error.message);
+		userauth.set(false);
+  };
+
 </script>
 
 <!-- Changes : bg-base-100 to bg-gray-900 -->
@@ -54,9 +60,9 @@
           <a class="justify-between" href="/signin"> SignIn </a>
         </li>
         <li><a href="/signup">SignUp</a></li>
-        <li><form method="POST">
-          <button formaction="/" type="submit">Sign Out</button>
-        </form></li>
+        <li>
+          <button on:click={usersignout}>Sign Out</button>
+        </li>
       </ul>
     </div>
   </div>
